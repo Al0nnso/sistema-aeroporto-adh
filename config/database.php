@@ -1,3 +1,3 @@
 <?php
-$mysqli = new mysqli("localhost",'admin','admin', 'aeroporto');
+$mysqli = new mysqli("0.0.0.0",'admin','admin', 'aeroporto');
 ?>
